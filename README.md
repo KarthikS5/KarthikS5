@@ -1,8 +1,8 @@
     Data Analyst
 
-🌟 Data Enthusiast
+🌟 Data Analytics Enthusiast
 
 🌟 Exploring Opportunities in Data Analytics Field
 
-🌟 Skilled in SQL,Python(Pandas,Numpy,) Power BI
+🌟 Skilled in SQL(MySQL, MsSql), Power Bi, Excel, Python(Pandas Basics) 
 
