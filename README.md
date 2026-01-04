@@ -4,5 +4,5 @@
 
 🌟 Exploring Opportunities in Data Analytics Field
 
-🌟 Skilled in SQL(MySQL, MsSql), Power Bi, Excel, Python(Pandas Basics) 
+🌟 Skilled in Advanced SQL(Complex queries,Window Function, Query Optimization, CTE, Procedure, View), Power Bi(Basics), Python(Pandas Basics), Metabase(Basics),Talend ETL 
 
